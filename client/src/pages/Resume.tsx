@@ -32,7 +32,7 @@ export default function Resume() {
         <section className="mb-12">
           <SectionTitle>Education</SectionTitle>
           <EducationItem
-            institution="Gwangju Institute of Science and Technology"
+            institution="Gwangju Institute of Science and Technology (GIST)"
             degree="Bachelor of Science"
             major="Electrical Engineering and Computer Science"
             duration="Mar 2021 - Mar 2027"
@@ -40,7 +40,7 @@ export default function Resume() {
             description="Currently in 4th year, 1st semester (leave of absence planned for next semester)"
           />
           <EducationItem
-            institution="한국과학기술원 (KAIST)"
+            institution="Korea Advanced Institute of Science and Technology (KAIST)"
             degree="Computer Science"
             major="Immersion Camp"
             duration="Jul 2023 - Aug 2023"
@@ -92,7 +92,6 @@ export default function Resume() {
             location="Freelance"
             achievements={[
               "Worked as a NAVER D2SF Campus Partner, responsible for sourcing university-based startup teams and analyzing startup trends in Korea.",
-              "Skills: Project Management & Market Research"
             ]}
           />
         </section>
@@ -108,7 +107,7 @@ export default function Resume() {
             year="2024"
             title="Defense Start-up Challenge - Innovation Award"
             organization="Ministry of National Defense"
-            description="Founder of '든든行' (Hospital Companion Manager Matching Platform) - Donated prize money to the Patriotic Dedication and Comrade Love Fund"
+            description="Founder of '든든行' (Hospital Companion Manager Matching Platform)"
           />
           <AwardItem
             year="2024"
