@@ -59,7 +59,7 @@ export default function Resume() {
           <ExperienceItem
             title="Undergraduate Intern"
             company="Gwangju Institute of Science and Technology"
-            duration="Sep 2025 - Present · 3 mos"
+            duration="Sep 2025 - Present"
             location="GIST AI - AILAB (Prof. Kyoobin Lee)"
             achievements={[
               "Led the training of a Mobile ALOHA robot for electrical panel tasks using an end-to-end imitation learning pipeline with the ACT model.",
